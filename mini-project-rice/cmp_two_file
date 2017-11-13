@@ -1,0 +1,11 @@
+path1 = '/Users/macbook/Documents/Bus_data/api/147_bus_stop_from_raw_data.txt'
+path2 = '/Users/macbook/Documents/Bus_data/api/147_bus_stop_from_api.txt'
+
+with open(path1, 'r') as f1, open(path2, 'r') as f2:
+    list1 = f1.readlines()
+    list2 = f2.readlines()
+    for ele in list1:
+        if  ele in list2:
+            pass
+        else:
+            print('Not found: {}'.format(ele))

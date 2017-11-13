@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearning/CS5242 Assignment/.idea/CS5242 Assignment.iml" filepath="$PROJECT_DIR$/../MachineLearning/CS5242 Assignment/.idea/CS5242 Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/show_me_the_code.iml" filepath="$PROJECT_DIR$/.idea/show_me_the_code.iml" />
+    </modules>
+  </component>
+</project>
